@@ -22,7 +22,23 @@ their tickets.
 ## Reg No: 212222240029
 # USE CASE DIAGRAM:
 ![s1](https://github.com/ganesha360/Lab-3-Railway-Reservation/assets/120884552/a4fabb0b-7c84-4cf8-9d58-be7bd6b375fc)
+# SEQUENCE DIAGRAM:
+![s2](https://github.com/ganesha360/Lab-3-Railway-Reservation/assets/120884552/28b51282-3efa-438e-86d7-abab6738391b)
 
+# CLASS DIAGRAM:
+![s3](https://github.com/ganesha360/Lab-3-Railway-Reservation/assets/120884552/0e1ba5dd-01e7-4a7a-b856-3c662e233222)
+
+# STATECHART DIAGRAM:
+![s4](https://github.com/ganesha360/Lab-3-Railway-Reservation/assets/120884552/fe27521b-05a1-4af2-8c25-45741e76e52d)
+
+# ACTIVITY DAIGRAM:
+![s5](https://github.com/ganesha360/Lab-3-Railway-Reservation/assets/120884552/5a9b08c6-a749-44ab-a09a-2669359e7226)
+
+# COMMUNICATION DIAGRAM:
+![s6](https://github.com/ganesha360/Lab-3-Railway-Reservation/assets/120884552/c31b6354-354e-4940-820d-f9e61c1ac3e1)
+
+# PACKAGE DAIGRAM:
+![s7](https://github.com/ganesha360/Lab-3-Railway-Reservation/assets/120884552/4c9eb7a9-65df-491d-ad04-b828186815a3)
 
 ### RESULT:
 Thus the project to develop e-ticketing system was developed using Star UML Software.

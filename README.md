@@ -17,8 +17,11 @@ phones.
 5. Finally, using E-Ticket is a more environmental friendly approach. The main purpose
 of the online bus ticket system is to provide another way for transnational customers to buy
 their tickets.
-### UML DIAGRAMS:
-
+# UML DIAGRAMS:
+## Developed By: Ganesh R
+## Reg No: 212222240029
+# USE CASE DIAGRAM:
+![s1](https://github.com/ganesha360/Lab-3-Railway-Reservation/assets/120884552/a4fabb0b-7c84-4cf8-9d58-be7bd6b375fc)
 
 
 ### RESULT:

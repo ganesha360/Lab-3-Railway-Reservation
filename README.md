@@ -29,7 +29,8 @@ their tickets.
 ![s3](https://github.com/ganesha360/Lab-3-Railway-Reservation/assets/120884552/0e1ba5dd-01e7-4a7a-b856-3c662e233222)
 
 # STATECHART DIAGRAM:
-![s4](https://github.com/ganesha360/Lab-3-Railway-Reservation/assets/120884552/fe27521b-05a1-4af2-8c25-45741e76e52d)
+![s8](https://github.com/ganesha360/Lab-3-Railway-Reservation/assets/120884552/67d868f7-30fd-4e45-8d06-4c250ab84cc8)
+
 
 # ACTIVITY DAIGRAM:
 ![s4](https://github.com/ganesha360/Lab-3-Railway-Reservation/assets/120884552/fe27521b-05a1-4af2-8c25-45741e76e52d)

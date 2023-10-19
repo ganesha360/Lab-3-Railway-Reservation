@@ -32,7 +32,7 @@ their tickets.
 ![s4](https://github.com/ganesha360/Lab-3-Railway-Reservation/assets/120884552/fe27521b-05a1-4af2-8c25-45741e76e52d)
 
 # ACTIVITY DAIGRAM:
-![s5](https://github.com/ganesha360/Lab-3-Railway-Reservation/assets/120884552/5a9b08c6-a749-44ab-a09a-2669359e7226)
+![s4](https://github.com/ganesha360/Lab-3-Railway-Reservation/assets/120884552/fe27521b-05a1-4af2-8c25-45741e76e52d)
 
 # COMMUNICATION DIAGRAM:
 ![s5](https://github.com/ganesha360/Lab-3-Railway-Reservation/assets/120884552/5a9b08c6-a749-44ab-a09a-2669359e7226)
